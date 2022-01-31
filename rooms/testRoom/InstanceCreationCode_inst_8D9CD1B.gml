@@ -1,0 +1,1 @@
+text = "And right click to teleport to it!"

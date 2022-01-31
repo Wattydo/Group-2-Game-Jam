@@ -1,0 +1,1 @@
+text = "Use left click to fire a bolt"
